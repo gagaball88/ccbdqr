@@ -1,10 +1,12 @@
 # ccbdqr
+
 a "Cheap 'Cheap Bots Done Quick' Replacement" for automatically tweeting Tracery grammar outputs
 
-### Usage
+## Usage
+
 Steps to set up this bot:
 
-1. Downlad the latest [release](https://github.com/gagaball88/ccbdqr/releases/tag/Releases/latest) and extract it to a folder of your choice.
+1. Download the latest [release](https://github.com/gagaball88/ccbdqr/releases/tag/Releases/latest) and extract it to a folder of your choice.
 2. Replace the contents of `src/config/traceryConfig.json` with your own Tracery-Grammar code.
 3. add your Twitter API Keys from your Twitter Developer page to `src/config/credentials.env.test` and rename the file to  `credentials.env`
 4. (optional) Change the `postInterval` value in `src/config/config.json` to your preference. By default, it's set to 180, which means that the bot will create a tweet every 180 minutes.
