@@ -1,0 +1,6 @@
+{
+  "_comment": "postInterval defines the interval in which tweets are sent in minutes (180 -> every 3 hours). The config will be read once upon program start. If you make any changes, you will have to restart the bot.",
+
+  
+  "postInterval": 180
+}

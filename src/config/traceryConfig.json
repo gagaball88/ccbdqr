@@ -1,0 +1,23 @@
+{
+	"_comment": "The program will reload this config file every time it makes a post. That means you can make changes to this config wile the bot is running. The changes will be taken into account with the next post.",
+	
+	
+	"animal": ["panda","fox","capybara","iguana"],
+	"emotion": ["sad","happy","angry","jealous"],
+	"origin":["I am #emotion.a# #animal#."]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
